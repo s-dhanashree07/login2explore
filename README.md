@@ -1,5 +1,4 @@
 # login2explore
-STUDENT ENROLLMENT FORM
 
 # Title of the Project: STUDENT ENROLLMENT FORM
 
